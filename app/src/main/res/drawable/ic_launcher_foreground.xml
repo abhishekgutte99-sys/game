@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Aura behind Modak -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M54,26 L58,34 L66,35 L60,41 L62,49 L54,45 L46,49 L48,41 L42,35 L50,34 Z" />
+
+    <!-- Sacred Golden Modak held high by Mushika -->
+    <!-- Modak teardrop base -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,28 C50,33 44,40 44,46 C44,52 48.5,56 54,56 C59.5,56 64,52 64,46 C64,40 58,33 54,28 Z" />
+    <!-- Modak pleats / texture -->
+    <path
+        android:strokeColor="#FF8F00"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M54,29 L54,56 M54,29 C51,36 47,44 48,52 M54,29 C57,36 61,44 60,52" />
+    <!-- Modak top tip flame / saffron mark -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M54,26 C53,28 53.5,29.5 54,30 C54.5,29.5 55,28 54,26 Z" />
+
+    <!-- Muscular Mouse Ears -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M38,55 C33,52 31,61 36,65 C39,67 42,65 42,61 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M38,56 C35,54 34,60 37,63 C39,64 41,63 41,60 Z" />
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M70,55 C75,52 77,61 72,65 C69,67 66,65 66,61 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M70,56 C73,54 74,60 71,63 C69,64 67,63 67,60 Z" />
+
+    <!-- Mushika Face & Head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,62 C42,56 47,53 54,53 C61,53 66,56 66,62 C66,68 60,73 54,75 C48,73 42,68 42,62 Z" />
+    <!-- Sacred Red Tilak on Mushika's Forehead -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M53,56 L55,56 L54,61 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M52,62 A2,2 0 1,0 56,62 A2,2 0 1,0 52,62 Z" />
+
+    <!-- Strong Determined Eyes & Snout -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M48,63 A1.5,1.5 0 1,0 48,60 A1.5,1.5 0 1,0 48,63 Z M60,63 A1.5,1.5 0 1,0 60,60 A1.5,1.5 0 1,0 60,63 Z" />
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M53,68 C53,67 55,67 55,68 C55,69 54,70 53,68 Z" />
+
+    <!-- Bodybuilder Mushika Shoulders, Muscular Arms & Dhoti -->
+    <!-- Left Bicep flex holding up modak -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,68 C34,68 31,73 34,77 C36,80 41,79 43,76 C44,74 44,70 41,68 Z" />
+    <!-- Right Bicep flex -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,68 C74,68 77,73 74,77 C72,80 67,79 65,76 C64,74 64,70 67,68 Z" />
+    <!-- Broad Muscular Chest -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M44,72 C44,70 54,69 64,72 C64,78 61,84 54,84 C47,84 44,78 44,72 Z" />
+    <!-- Pectoral definition lines -->
+    <path
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M47,76 C51,78 53,78 54,82 M61,76 C57,78 55,78 54,82" />
+    <!-- Golden Dhoti Sash & Belt -->
+    <path
+        android:fillColor="#B45309"
+        android:pathData="M43,83 L65,83 L63,89 L45,89 Z" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M44,83 L64,83 L62,87 L46,87 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Mushika Mahayatra",
+  "description": "A culturally respectful Ganesha Arcade featuring Mushika the devoted bodybuilder mouse on a spiritual yatra through temple runners, wisdom puzzles, and Mahabharata scribe challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
